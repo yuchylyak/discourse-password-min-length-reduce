@@ -1,0 +1,6 @@
+users:
+  min_password_length:
+    client: true
+    default: 6
+    min: 6
+    max: 500

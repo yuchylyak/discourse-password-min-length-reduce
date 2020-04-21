@@ -1,0 +1,88 @@
+# encoding: utf-8
+#
+# Never edit this file. It will be overwritten when translations are pulled from Transifex.
+#
+# To work with us on translations, join this project:
+# https://www.transifex.com/projects/p/discourse-org/
+
+ru:
+  js:
+    views: "Просмотров"
+    likes: "Лайков"
+    rules: "Вопрос-ответ"
+    suggested_topics:
+      title: "Рекомендованные темы"
+    composer:
+      show_preview: "Показать предпросмотр <span class='show-preview'>&#8250;</span>"
+      hide_preview: "Скрыть предпросмотр <span class='hide-preview'>&#8964;</span>"
+    topics:
+      bottom:
+          latest: "В разделе Valorant News больше нет тем. Почему бы вам не создать новую тему?"
+    search:
+      result_count:
+        one: "<span>Найдено %{count} результат по запросу </span><span class='term'>{{term}}</span>"
+        few: "<span>Найдено результатов по запросу </span><span class='term'>{{term}} </span><span>{{count}}{{plus}}</span>"
+        many: "<span>Найдено результатов по запросу </span><span class='term'>{{term}} </span><span>{{count}}{{plus}}</span>"
+        other: "<span>Найдено результатов по запросу </span><span class='term'>{{term}} </span><span>{{count}}{{plus}}</span>"
+    submit: "<span class='submit-btn'>Отправить</span><span class='filter-submit-btn'>Применить</span>"
+    notifications:
+      granted_badge: "<span class='label'>Заслужил(а) значок</span> «{{description}}»"
+      mentioned: "<span class='label'>{{username}}</span> {{description}}"
+      group_mentioned: "<span class='label'>{{username}}</span> {{description}}"
+      quoted: "<span class='label'>{{username}}</span> {{description}}"
+      replied: "<span class='label'>{{username}}</span> {{description}}"
+      posted: "<span class='label'>{{username}}</span> {{description}}"
+      edited: "<span class='label'>{{username}}</span> {{description}}"
+      liked: "<span class='label'>{{username}}</span> {{description}}"
+      liked_2: "<span class='label'>{{username}}, {{username2}}</span> {{description}}"
+      liked_consolidated: "<span class='label'>{{username}}</span> {{description}}"
+      private_message: "<span class='label'>{{username}}</span> {{description}}"
+      invited_to_private_message: "<p><span class='label'>{{username}}</span> {{description}}"
+      invited_to_topic: "<span class='label'>{{username}}</span> {{description}}"
+      invitee_accepted: "<span class='label'>{{username}}</span> принял ваше приглашение"
+      moved_post: "<span class='label'>{{username}}</span> moved {{description}}"
+      linked: "<span class='label'>{{username}}</span> {{description}}"
+      granted_badge: "<span class='label'>Заслужил(а) значок</span> «{{description}}»"
+      topic_reminder: "<span class='label'>{{username}}</span> {{description}}"
+      watching_first_post: "<span class='label'>Новая тема</span> {{description}}"
+    user:
+      private_messages: "Сообщения"
+      created: "Регистрация"
+      avatar:
+        title: "Имидж профайла"
+      summary:
+        time_read: "за чтением"
+        top_topics: "Лучшие посты"
+        top_links: "Топ ссылки"
+        most_replied_to_users: "Фавориты"
+        most_liked_by: "Больше всего лайков от"
+        most_liked_users: "Больше всего лайкнул"
+        top_badges: "Награды"
+        more_replies: "Показать больше"
+        more_topics: "Показать больше"
+        more_badges: "Показать больше"
+        days_visited:
+          one: "день посещения"
+          few: "дня посещения"
+          many: "дней посещал"
+          other: "дней посещал"
+        topics_entered:
+          one: "тему посмотрел"
+          few: "темы посмотрел"
+          many: "тем просмотрено"
+          other: "тем просмотрено"
+        posts_read:
+          one: "сообщение прочитано"
+          few: "сообщения прочитано"
+          many: "сообщений прочитано"
+          other: "сообщений прочитано"
+        likes_given:
+          one: "поставлен"
+          few: "поставлено"
+          many: "поставлено"
+          other: "поставлено"
+        likes_received:
+          one: "получено"
+          few: "получено"
+          many: "получено"
+          other: "получено"
